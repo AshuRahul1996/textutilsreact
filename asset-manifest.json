@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/textutilshub.github.io/static/css/main.fb3cf585.css",
-    "main.js": "/textutilshub.github.io/static/js/main.8bee965a.js",
-    "static/js/787.719ec76d.chunk.js": "/textutilshub.github.io/static/js/787.719ec76d.chunk.js",
-    "index.html": "/textutilshub.github.io/index.html",
-    "main.fb3cf585.css.map": "/textutilshub.github.io/static/css/main.fb3cf585.css.map",
-    "main.8bee965a.js.map": "/textutilshub.github.io/static/js/main.8bee965a.js.map",
-    "787.719ec76d.chunk.js.map": "/textutilshub.github.io/static/js/787.719ec76d.chunk.js.map"
+    "main.css": "/textutilsreact.github.io/static/css/main.571d873a.css",
+    "main.js": "/textutilsreact.github.io/static/js/main.fb27207d.js",
+    "static/js/787.719ec76d.chunk.js": "/textutilsreact.github.io/static/js/787.719ec76d.chunk.js",
+    "index.html": "/textutilsreact.github.io/index.html",
+    "main.571d873a.css.map": "/textutilsreact.github.io/static/css/main.571d873a.css.map",
+    "main.fb27207d.js.map": "/textutilsreact.github.io/static/js/main.fb27207d.js.map",
+    "787.719ec76d.chunk.js.map": "/textutilsreact.github.io/static/js/787.719ec76d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb3cf585.css",
-    "static/js/main.8bee965a.js"
+    "static/css/main.571d873a.css",
+    "static/js/main.fb27207d.js"
   ]
 }
